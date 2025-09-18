@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10-blue"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green"/></a>
-  <a href="https://github.com/yourusername/SafeNest/issues"><img src="https://img.shields.io/github/issues/yourusername/SafeNest"/></a>
+  <a href="https://github.com/Aaryanbanskota/SafeNest/issues"><img src="https://img.shields.io/github/issues/yourusername/SafeNest"/></a>
   <br><br>
   <strong>SafeNest</strong> is a Python-based secure vault for managing <strong>passwords, notes, accounts, and to-do lists</strong> with notifications. Keep your digital life organized and protected with a single master password.
 </p>
@@ -155,6 +155,3 @@ We welcome contributions!
 This project is licensed under the <strong>MIT License</strong>.
 </p>
 
-<p align="center">
-[⬆️ Back to Top](#-safenest--your-secure-digital-vault-)
-</p>
