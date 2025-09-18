@@ -112,10 +112,10 @@ vault.list_notes()
 
 <p align="center">
 <!-- Replace these placeholders with your actual screenshots -->
-<img src="docs/screenshots/login.png" alt="Login Screen" width="300"/> &nbsp;
-<img src="docs/screenshots/dashboard.png" alt="Dashboard" width="300"/> &nbsp;
-<img src="docs/screenshots/add_note.png" alt="Add Note" width="300"/> &nbsp;
-<img src="docs/screenshots/todo.png" alt="To-Do List" width="300"/>
+<img src="https://i.postimg.cc/J0bdM49m/login.png" alt="Login Screen" width="300"/> &nbsp;
+<img src="https://i.postimg.cc/G2b4qMdQ/account.png" alt="Accounts" width="300"/> &nbsp;
+<img src="https://i.postimg.cc/T3XfVKRj/note.png" alt="Add Note" width="300"/> &nbsp;
+<img src="https://i.postimg.cc/TPtxvQnQ/todo.png" alt="To-Do List" width="300"/>
 </p>
 
 ---
